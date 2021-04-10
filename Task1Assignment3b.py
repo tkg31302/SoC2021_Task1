@@ -9,7 +9,7 @@ while True:
     success, img1=img.read()
     imgGray = cv2.cvtColor(img1, cv2.COLOR_BGR2GRAY)
     img_invert = cv2.bitwise_not(imgGray)
-    img_smoothing = cv2.GaussianBlur(img_invert, (21, 21), sigmaX=0, sigmaY=0)
+    img_smoothing = cv2.GaussianBlur(img_invert, (21, 21), 0)
     def dodgeV2(x, y):
 
         return cv2.divide(x, 255 - y, scale=256)
