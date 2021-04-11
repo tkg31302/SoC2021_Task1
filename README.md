@@ -11,4 +11,4 @@ Repository for (Un)Clear SoC Project 2021.
   - Image Processing in OpenCV
   - Feature Detection and Description in OpenCV
   - Video Analysis in OpenCV
-- Part1 Google Machine Learning Course helped me to learn basic Machine Learning concepts and idea behind developing Machine Learning Algorithms, which will be continued in Week2.
+- Part1 - Google Machine Learning Course helped me to learn basic Machine Learning concepts and ideas behind developing Machine Learning Algorithms.
