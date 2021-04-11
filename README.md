@@ -7,4 +7,4 @@ Repository for (Un)Clear SoC Project 2021.
 
 ## Week 1:
 - OpenCV Tutorial taught me various image processing functions
-  - ww
+ - ww
