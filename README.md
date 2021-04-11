@@ -1,2 +1,2 @@
-# SoC2021
-Project(Unclear)
+# (Un)Clear Project SoC_2021
+Project(UnClear)
