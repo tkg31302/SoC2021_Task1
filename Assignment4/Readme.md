@@ -1,5 +1,5 @@
 # Week 4 Assignment ESRGAN
-ESRGAN model uses a relativistic discriminator, an RRDB based generator and also incorporates perceptual loss. The main ideas implemented are based on the original paper of ESRGAN.
+ESRGAN model uses a relativistic discriminator, an RRDB based generator and also incorporates perceptual loss. The main ideas implemented are based on the original paper of ESRGAN. ESRGAN paper can be accessed [here](https://arxiv.org/abs/1809.00219).
 
 ## Basic Functioning
 - Basically, the functioning of ESRGAN is similar to a typical GAN with some modifications. The working of a GAN is quite simple, the generator produces an output, the discriminator then tries to determine if the output is a realistic high resolution image and then based on the output of the discriminator, the generator values are tuned.
