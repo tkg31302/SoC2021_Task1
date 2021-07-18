@@ -25,7 +25,7 @@
 - Completed **Assignment 3** based on the implementation of CGANs (Conditional GANs), which included making of a basic GAN which colours an anime-sketch based on a given input data. Details can be seen [here](https://github.com/tkg31302/SoC_2021/tree/main/Assignment3).
 
 ## Week 4:
-- Studied two of the latest papers in this field, one about Super-Resolution Generative Adversarial Networks (SRGANs) and other about Enhanced Super-Resolution Generative Adversarial Networks (ESRGANs), which are much more advanced GANs by reading the original papers.
+- Studied two of the latest papers in this field, one about Super-Resolution Generative Adversarial Networks (SRGANs) and other about Enhanced Super-Resolution Generative Adversarial Networks (ESRGANs), which are much more advanced GANs by reading the original papers. SRGAN paper can be accessed [here](https://arxiv.org/abs/1609.04802). ESRGAN paper can be accessed [here](https://arxiv.org/abs/1809.00219).
 - Completed **Assignment 4** based on the implementation of ESRGAN model, which included choosing a low quality image and resolving it to a high quality using the implementation given in the paper. Details can be seen [here](https://github.com/tkg31302/SoC_2021/tree/main/Assignment4).
 
 ## Week 5:
