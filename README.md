@@ -11,7 +11,7 @@
   - Image Processing in OpenCV
   - Feature Detection and Description in OpenCV
   - Video Analysis in OpenCV
-- Completed **Assignment 1** based on implementation of various features of OpenCV.
+- Completed **Assignment 1** based on implementation of various features of OpenCV. Details can be seen [here](https://github.com/tkg31302/SoC_2021/tree/main/Assignment1)
 - ML Course Part1 - Google Machine Learning Course helped me to learn basic Machine Learning concepts and ideas behind developing Machine Learning Algorithms. It also acquainted me with various features of numpy and pandas.
 
 ## Week 2:
